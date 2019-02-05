@@ -10,7 +10,7 @@ For this assignment, I will be making a LIRI Bot. LIRI is like iPhone's SIRI. Ho
 
 ## What Each Command Does
 
-### <code>node liri.js *"concert-this"* '<artist/band name here>'</code>
+### <code>node liri.js *concert-this* '<artist/band name here>'</code>
 ##### This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?       app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
   - Name of the venue
   - Venue location
@@ -36,7 +36,7 @@ For this assignment, I will be making a LIRI Bot. LIRI is like iPhone's SIRI. Ho
 - Rotten Tomatoes URL.
 - Or if no movie is passed through, it will default to "Mr. Nobody"
 
-### node liri.js *do-what-it-says*
+### <code>node liri.js *do-what-it-says*</code>
 - Takes the text from random.txt and runs the song through spotify-this-song command
 
 ## NPM Dependencies
