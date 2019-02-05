@@ -10,13 +10,13 @@ For this assignment, I will be making a LIRI Bot. LIRI is like iPhone's SIRI. Ho
 
 ## What Each Command Does
 
-### node liri.js *"concert-this"* '<artist/band name here>'
+### <code>node liri.js *"concert-this"* '<artist/band name here>'</code>
 ##### This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?       app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
   - Name of the venue
   - Venue location
   - Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-### <code>node liri.js *"spotify-this-song"* '<song name here>'<code>
+### <code>node liri.js *"spotify-this-song"* '<song name here>'</code>
 ##### This will show the following information about the song in your terminal/bash window
 - Artist(s)
 - The song's name
