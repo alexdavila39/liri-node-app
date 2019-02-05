@@ -46,8 +46,11 @@ This is a project for UCF's Coding bootcamp class where we are learning to imple
 * dotenv
 * Bands-in-town
 * node-spotify-api
+* moment
 * request
 * fs
+* axios
+
 
 ## API Integration
 * Bands-in-town
