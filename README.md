@@ -16,14 +16,14 @@ For this assignment, I will be making a LIRI Bot. LIRI is like iPhone's SIRI. Ho
   - Venue location
   - Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-### <code>node liri.js *"spotify-this-song"* &lt;song name here&gt; </code>
+### <code>node liri.js *"spotify-this-song"* '&lt;song name here&gt;' </code>
 ##### This will show the following information about the song in your terminal/bash window
 - Artist(s)
 - The song's name
 - A preview link of the song from Spotify
 - The album that the song is from
 
-### node liri.js *"movie-this"* '<movie name>'
+### node liri.js *"movie-this"* '&lt;movie name&gt;'
 #### Shows the following information in terminal/bash.
 - Title of the movie.
 - Year the movie came out.
