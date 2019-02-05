@@ -23,7 +23,7 @@ For this assignment, I will be making a LIRI Bot. LIRI is like iPhone's SIRI. Ho
 - A preview link of the song from Spotify
 - The album that the song is from
 
-### node liri.js *"movie-this"* '&lt;movie name&gt;'
+### <code>node liri.js *"movie-this"* '&lt;movie name&gt;'</code>
 #### Shows the following information in terminal/bash.
 - Title of the movie.
 - Year the movie came out.
